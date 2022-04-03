@@ -1,0 +1,14 @@
+body {
+  font-family: 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans';
+  color: white;
+  background-color: #3399ff;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+div#quiz{
+    border:white 3px solid;
+    padding:10px 40px 40px 40px;
+    width:50%;}
