@@ -11,10 +11,12 @@ main{
 
 header{
   margin-top: 20px;
+  font-family: Calibri, Segoe UI,sans-serif;
 }
 
 body {
   margin-left: 20px;
+  font-family: Calibri, Segoe UI,sans-serif;
 }
 
 h2 {
